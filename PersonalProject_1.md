@@ -3,6 +3,10 @@
 - 20 to 40 hours
 - doesn't need to, and likely won't go on resume.
 
+**Self-imposed Guidelines**
+- learn pythonic way(s) to use existing libs
+- try using the ['typing'](https://docs.python.org/3/library/typing.html) lib?
+(((((((((((((((`)))))))))))))))    - it seems easy enough to implement, but I should look into it further.
 ---
 
 **Text-based Adventure Game?**
